@@ -1,6 +1,6 @@
 # popcorn_consulting
 
-The .ipynb file contains the starting code for the project.
+## USE THE V2 FILE <-- this file has a finished binarized dataset, we can try to move on to the prediction model step.
 
 **Links to the datasets:**
 
