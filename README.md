@@ -1,6 +1,6 @@
 # popcorn_consulting
 
-## USE THE V2 FILE <-- this file has a finished binarized dataset, we can try to move on to the prediction model step.
+## USE THE V3 FILE
 
 **Links to the datasets:**
 
