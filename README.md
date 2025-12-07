@@ -1,6 +1,6 @@
 # popcorn_consulting
 
-## USE THE V5 FILE
+## USE THE V6 FILE
 
 **Links to the datasets:**
 
