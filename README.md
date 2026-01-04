@@ -1,4 +1,4 @@
-# popcorn_consulting (AKA movie analysis project)
+# Popcorn Consulting (AKA movie analysis project)
 
 ## USE THE V8 FILE
 
