@@ -2,6 +2,10 @@
 
 ## USE THE V8 FILE
 
+Other versions are included to showcase our process and collaborative efforts over time.
+
+This is a project to analyze existing movie data in order to provide a general analysis of future movie success.
+
 **Links to the datasets:**
 
 **Dataset 1**
